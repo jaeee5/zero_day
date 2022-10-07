@@ -1,2 +1,1 @@
-# zero_day
-# setting up vagrant on local pc
+Hello Ubuntu
